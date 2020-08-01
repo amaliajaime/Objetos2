@@ -1,5 +1,5 @@
 # Directorio principal de Objetos 2, semestre 2 2018
-El proyecto se encontraba como privado en Gitlab, por lo que decidí subirlo  mi perfil.
+El proyecto se encontraba como privado en un repositorio acádemico en Gitlab, por lo que decidí subirlo a mi perfil.
 Es de la materia Programacion Orientada a Objetos 2.
 Materia que ya he cursado en el 2018.
 
