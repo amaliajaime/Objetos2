@@ -1,5 +1,7 @@
 # Directorio principal de Objetos 2, semestre 2 2018
-How do you turn this on?
+El proyecto se encontraba como privado en Gitlab, por lo que decidí subirlo  mi perfil.
+Es de la materia Programacion Orientada a Objetos 2.
+Materia que ya he cursado en el 2018.
 
 ## Directorios
 
